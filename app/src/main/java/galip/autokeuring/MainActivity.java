@@ -112,4 +112,26 @@ public class MainActivity extends Activity {
         mDrawerList.setItemChecked(position, true);
         mDrawerLayout.closeDrawer(mDrawerList);
     }
+
+    public void onCategoryClick(View v)
+    {
+        if (v == findViewById(R.id.lblCategory1))
+        {
+            selectCategory("Category1");
+        }
+    }
+
+    private void selectCategory(String category)
+    {
+        Fragment fragment = new ScreenFragment();
+        Bundle args = new Bundle();
+        args.putString(ScreenFragment.CATEGORY_SELECTION, category);
+        fragment.setArguments(args);
+
+        // Insert the fragment by replacing any existing fragment
+        FragmentManager fragmentManager = getFragmentManager();
+        fragmentManager.beginTransaction()
+                .replace(R.id.content_frame, fragment)
+                .commit();
+    }
 }

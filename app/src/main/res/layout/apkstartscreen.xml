@@ -3,7 +3,8 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:id="@+id/apkchecklayout">
+    android:id="@+id/apkchecklayout"
+    android:weightSum="1">
 
     <TextView
         android:layout_width="wrap_content"
@@ -16,7 +17,74 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Show a clickable list of categories"
+        android:text="Please press on the category to continue"
         android:id="@+id/textView2"
         android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Category 1"
+        android:id="@+id/lblCategory1"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:onClick="onCategoryClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Category 2"
+        android:id="@+id/lblCategory2"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:onClick="onCategoryClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Category 3"
+        android:id="@+id/lblCategory3"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:onClick="onCategoryClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Category 4"
+        android:id="@+id/lblCategory4"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:onClick="onCategoryClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Category 5"
+        android:id="@+id/lblCategory5"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:onClick="onCategoryClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Category 6"
+        android:id="@+id/lblCategory6"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:onClick="onCategoryClick" />
+
 </LinearLayout>
