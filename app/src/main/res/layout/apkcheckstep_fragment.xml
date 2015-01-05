@@ -29,7 +29,9 @@
         android:layout_toEndOf="@+id/txtCategory"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:clickable="true"
+        android:onClick="onPreviousClick" />
 
     <Button
         android:layout_width="wrap_content"
@@ -41,7 +43,8 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginRight="31dp" />
+        android:clickable="true"
+        android:onClick="onNextButtonClick" />
 
     <TextView
         android:layout_width="wrap_content"

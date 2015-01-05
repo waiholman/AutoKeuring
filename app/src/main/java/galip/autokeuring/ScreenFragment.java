@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 public class ScreenFragment extends Fragment {
 
@@ -15,18 +16,23 @@ public class ScreenFragment extends Fragment {
     {
 
     }
-///aj
+
+    public void changeContentFragmentText(String Header, String content, String navigation)
+    {
+        TextView HeaderView = (TextView) getView().findViewById(R.id.txtCategory);
+        HeaderView.setText(Header);
+        TextView ContentView = (TextView) getView().findViewById(R.id.txtApkCheckStep_Information);
+        ContentView.setText(Header);
+        TextView NavigationView = (TextView) getView().findViewById(R.id.txtStep);
+        NavigationView.setText(Header);
+    }
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
         View resultView = null;
         String CategorySelection = getArguments().getString(CATEGORY_SELECTION);
-        if(CategorySelection == "Category1")
-        {
-            return inflater.inflate(R.layout.apkcheckstep_fragment, container, false);
-        }
-
 
         int MenuSelection = getArguments().getInt(MENU_POSITION);
 
