@@ -26,7 +26,7 @@ public class ScreenFragment extends Fragment {
         TextView NavigationView = (TextView) getView().findViewById(R.id.txtStep);
         NavigationView.setText(Header);
     }
-//marekd
+//marekds
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
