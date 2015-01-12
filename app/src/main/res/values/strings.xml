@@ -19,19 +19,19 @@ Eventuele feedback over de applicatie is welkom op 0822878@student.hro.nl !</str
 
 Deze applicatie is nog volop in ontwikkeling en zal uitgebreid worden met functionaliteit, daarnaast kunnen er in dit vroege stadium nog problemen voorkomen met de applicatie, wij blijven aan deze applicatie werken om deze te verbeteren en proberen ten minste maandelijks een update uit te brengen! In de eerste plaats zal het gebruik van de applicatie volledig gratis zijn, waarbij later eventueel een uitgebreidere betaalde versie beschikbaar komt.
 
-De informatie afkomstig van deze applicatie komt uit het openbare document van het RDW met de APK keurringseisen en zijn zo simpel mogelijk uitgelegd.
+De informatie afkomstig van deze applicatie komt uit het openbare document van het RDW met de APK keuring eisen en zijn zo simpel mogelijk uitgelegd.
 
 Eventuele feedback over de applicatie is welkom op 0822878@student.hro.nl !</string>
     <string name="Tyres1">Controleer alle 4 de banden op de volgende punten:
 
-Een band ter breedte op alle controlepunten ten minste 1.6 mm profiel hebben, dit kun u makkelijk controleren door in de groeven van de banden naar slijtage indicatoren te zoeken, zoals deze:</string>
+Een band ter breedte op alle controle punten ten minste 1.6 mm profiel hebben, dit kun u makkelijk controleren door in de groeven van de banden naar slijtage indicatoren te zoeken, zoals deze:</string>
     <string name="Tyres2">Als de slijtage indicator op dezelfde hoogte zit als het profiel van uw band, moet u de band per direct vervangen, het liefst eerder al. Let er op dat een band aan de binnenkant of in het midden meer versleten kan zijn dan aan de buitenkant, bij de voorwielen kunt u het uzelf makkelijker te maken door de wielen naar de uiterste zijde te sturen voor de controle.
 
-Daarnaast mag de band geen beschadigingen waarbij het karkas zichbaar wordt  zoals in de volgende voorbeelden, kleine droogtescheurtjes kunnen nog net maar de band moet in de gaten worden gehouden voor ergere beschadigingen:</string>
+Daarnaast mag de band geen beschadigingen waarbij het karkas zichtbaar wordt  zoals in de volgende voorbeelden, kleine droogscheuren kunnen nog net maar de band moet in de gaten worden gehouden voor ergere beschadigingen:</string>
     <string name="Tyres3">Ten slotte mogen de banden geen uitstuplingen of bobbels bevatten zoals deze, let er op dat deze ook aan de binnenkant kunnen zitten:
 </string>
     <string name="DamageAndBodywork1">Als u schade heeft aan uw auto, mag deze geen scherp uitstekende delen bevatten . Dit betekent dus dat uw bumper bijvoorbeeld geen gaten mag vertonen pf scherpe hoeken door een deuk. Deze kunt U over plakken met tape waarna het goed is voor de APK zoals in het volgende voorbeeld </string>
-    <string name="DamageAndBodywork2">Daarnaast mag er geen roest zitten op de dragende delen van de auto, opervlakkige roest is geen probleem maar in de zelfdragende carrosserie mogen geen gaten zitten ( zijn doorgeroest). In niet dragende ( zoals de deur bijvoorbeeld) zijn kleine gaten geen probleem.</string>
+    <string name="DamageAndBodywork2">Daarnaast mag er geen roest zitten op de dragende delen van de auto, oppervlakkige roest is geen probleem maar in de zelfdragende carrosserie mogen geen gaten zitten ( zijn doorgeroest). In niet dragende ( zoals de deur bijvoorbeeld) zijn kleine gaten geen probleem.</string>
     <string name="Lighting">Alle verlichting die op uw auto zit moet ook werken, dit betekent ten minste :
 
 2x Dimlicht
@@ -40,7 +40,7 @@ Daarnaast mag de band geen beschadigingen waarbij het karkas zichbaar wordt  zoa
 Richtingaanwijzers voor, achter en aan de zijkant
 2x achterlicht
 2x remlicht + eventueel 3e remlicht als deze er op zit)
-Ten minste 1 achteruitrijlicht ( beide als ze er op zitten(
+Ten minste 1 achteruitrijlamp ( beide als ze er op zitten)
 Ten minste 1 mistachterlicht.
 Eventueel uw dagijverlichting.
 
