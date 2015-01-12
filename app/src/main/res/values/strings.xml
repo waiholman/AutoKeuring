@@ -12,7 +12,7 @@ Auteursrechten en intellectuele eigendomsrechten
 Het auteursrecht op deze applicatie berust bij de makers van APK Precheck of bij derden welke met toestemming dit (beeld)materiaal beschikbaar hebben gesteld aan APK Precheck. Vermenigvuldiging in wat voor vorm dan ook is alleen toegestaan na voorafgaande toestemming door  APK Precheck of door derden.</string>
     <string name="Welcomemessage">Welkom bij de APK Precheck applicatie, deze applicatie dient als gratis hulpmiddel als u uw personenauto zelf vóór een APK alvast wilt controleren met het idee om eventuele kleine problemen alvast te verhelpen en op te sporen om onaangename verrassingen te voorkomen of geld te besparen op onderhoud van uw auto. De informatie zal op een zo simpel mogelijke manier worden uitgelegd. Houd er rekening mee dat deze check niet alle keuringspunten aanpakt, maar de meest  voorkomende fouten problemen of simpel op te lossen problemen aan de kaak stelt!
 
-Deze applicatie is nog volop in ontwikkeling en zal uitgebreid worden met functionaliteit, daarnaast kunnen er in dit vroege stadium nog problemen voorkomen met de applicatie, wij blijven aan deze applicatie werken om deze te verbeteren en proberen ten minste maandelijks een update uit te brengen! In de eerste plaats zal het gebruik van de applicatie volledig gratis zijn, waarbij later eeventueel een uitgebreidere betaalde versie beschikbaar komt.
+Deze applicatie is nog volop in ontwikkeling en zal uitgebreid worden met functionaliteit, daarnaast kunnen er in dit vroege stadium nog problemen voorkomen met de applicatie, wij blijven aan deze applicatie werken om deze te verbeteren en proberen ten minste maandelijks een update uit te brengen! In de eerste plaats zal het gebruik van de applicatie volledig gratis zijn, waarbij later eventueel een uitgebreidere betaalde versie beschikbaar komt.
 
 Eventuele feedback over de applicatie is welkom op 0822878@student.hro.nl !</string>
     <string name="About">V 0.2 ( beta )
@@ -42,7 +42,7 @@ Richtingaanwijzers voor, achter en aan de zijkant
 2x remlicht + eventueel 3e remlicht als deze er op zit)
 Ten minste 1 achteruitrijlamp ( beide als ze er op zitten)
 Ten minste 1 mistachterlicht.
-Eventueel uw dagijverlichting.
+Eventueel uw dagrijverlichting.
 
 Controleer of in ieder geval deze verlichting werkt!  Kijk in uw gebruikershandleiding hoe u elk licht aan kunt zetten.</string>
     <string name="DoorsAndWindows1">Voorruit :
@@ -51,32 +51,32 @@ Een sterretje is absoluut geen probleem ,wel is het slim om deze zsm. te laten r
 Een lange scheur in uw ruit is normaal gesproken ook geen probleem, ongeacht de lengte, deze mag echter geen vertakkingen vertonen in uw gezichtsveld.
 Daarnaast mag uw voorruit mag niet :
 - In uw directe gezichtsveld en in het randvlak van de voorruit ( uiterste randen) geen vertakkingen hebben of beschadigingen of verkleuringen die groter dan in een cirkel van 2cm passen,
-- Buiten het directe gezichtsveld mogen de beschadigingen of verkleuringen niet groter dan een circel van 5cm bevatten.
-- Er mogen geen opervlakkige diepe krassen inzitten waarvan de breedte groter is dan 5mm.
+- Buiten het directe gezichtsveld mogen de beschadigingen of verkleuringen niet groter dan een cirkel van 5cm bevatten.
+- Er mogen geen oppervlakkige diepe krassen inzitten waarvan de breedte groter is dan 5mm.
 
 Uw directe gezichtsveld is normaal gesproken het gedeelte van de voorruit direct voor u met een breedte van 30cm. Wel zijn hier afwijkingen van.</string>
     <string name="DoorsAndWindows2">Lichtdoorlaatbaarheid:
 De zijruiten naast de bestuurderszitplaats en de voorruit moeten minstens 55% lichtdoorlaatbaarheid hebben, dit betekent in de praktijk dat u deze niet mag dimmen door middel van folie of verf. Achterruiten mogen wel gedimd worden, mits u een rechterbuitenspiegel heeft.</string>
-    <string name="DoorsAndWindows3">Deuren: Alle deuren van de auto moeten goed sluiten en moeten op normale wijze vanaf de binnenkant en buitenkant kunnen worden geopend. De kofferdeksel en motorkap moeten moeten ook goed dicht zijn en moeten niet open kunnen vanuit gesloten positie zonder het slot of de hendel te bewegen</string>
+    <string name="DoorsAndWindows3">Deuren: Alle deuren van de auto moeten goed sluiten en moeten op normale wijze vanaf de binnenkant en buitenkant kunnen worden geopend. De koffer deksel en motorkap moeten moeten ook goed dicht zijn en moeten niet open kunnen vanuit gesloten positie zonder het slot of de hendel te bewegen</string>
     <string name="UnderTheHood">Onder de motorkap kunt u even snel de volgende dingen controleren:
 - Staat de accu vast ( even vastpakken en kijken of u deze heen en weer kunt bewegen) ?
 - Heeft u nog genoeg ruitensproeier vloeistof ( kan ook met water aangevuld worden) ?
-- Heeft u genoeg olie ( pijlstok er uit halen, schoonmaken met een doekje, er in steken, en gelijk weeruithalen, de olie moet ergens tussen de min en max komen)
+- Heeft u genoeg olie ( pijlstok er uit halen, schoonmaken met een doekje, er in steken, en gelijk weer uithalen, de olie moet ergens tussen de min en max komen)
 - Zijn er ergens lekkages zichtbaar ?</string>
     <string name="Exhaust">Uw uitlaat moet niet meer geluid dan gewoonlijk maken, als u een enkele einddemper ( uitlaatpijp) aan de achterkant heeft, kunt u dit testen door de motor aan te zetten en met uw hand de uitgang te bedekken, hoort u dan ergens anders wat meer geluid en de lucht ontsnappen, dan is de uitlaat niet luchtdicht.</string>
     <string name="Inside1">Gordels:
-Kunnen alle aanwezige gordels worden vastgeklikt, losgeklikt ?
+Kunnen alle aanwezige gordels worden vast geklikt, los geklikt ?
 Als u hard aan een gordel trekt, komen ze dan op spanning ? (blokkeert de gordel)
 Hebben de gordels zelf geen beschadigingen ? De volgende voorbeelden zijn afkeurpunten :</string>
     <string name="Inside2">Ruitenwissers:
 Werkt de ruitensproeier en wissen de ruitenwissers zonder strepen achter te laten ? Ook mogen de rubbers van de ruitenwisser niet gescheurd zijn! Hier is een voorbeeld van het resultaat van een versleten ruitenwisser die strepen achter laat:</string>
     <string name="Inside3">Controlelampjes:
 
-Branden er tijdens het rijden bepaalde rode lampjes op uw dashboard, betekenen deze vaak ook een afkeurpunt, refereer naar uw gebruikershandleiding wat ze betekenen. Oranje lampjes kunnen wel, een lampje ''service'' is dus geen probleem.</string>
+Branden er tijdens het rijden bepaalde rode lampjes op uw dashboard, betekenen deze vaak ook een afkeurpunt, refereer naar uw gebruikershandleiding wat ze betekenen. Oranje lampjes kunnen wel, een lampje service is dus geen probleem.</string>
     <string name="Inside4">Uw handrem moet werken en de auto voldoende afremmen, en niet afremmen als deze niet is aangetrokken. U kunt dit simpel testen door de auto op een vlak stuk te zetten in zijn vrij of neutraal , en kijken of u de auto kunt duwen. Bij een aangetrokken handrem moet u de auto niet vooruit kunnen duwen, en bij een losgelaten handrem moet de auto makkelijk naar voren en achteren geduwd kunnen worden.
 </string>
     <string name="Inside5">
-Een uitgebreidere manier om dit te testen is het opkrikken van de auto en kijken of de handrem goed functioneert, de handrem werkt meestal op de achterwielen maar er zijn ook auto's waar hij op de voorwielen werkt, er wordt bij de APK gecontroleerd of alle 4 de wielen vrij draaien, u kunt dus alle 4 de hoeken een keer opkrikken en kijken of deze vrij draaien, en eventueel niet te draaien zijn bij een aangetrokken handrem.</string>
+Een uitgebreidere manier om dit te testen is het opkrikken van de auto en kijken of de handrem goed functioneert, de handrem werkt meestal op de achterwielen maar er zijn ook autos waar hij op de voorwielen werkt, er wordt bij de APK gecontroleerd of alle 4 de wielen vrij draaien, u kunt dus alle 4 de hoeken een keer opkrikken en kijken of deze vrij draaien, en eventueel niet te draaien zijn bij een aangetrokken handrem.</string>
 
     <string-array name="navigation_titles">
         <item>Welcome</item>
